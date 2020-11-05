@@ -1,0 +1,28 @@
+body {
+  background: '../fondo.jpg';
+  max-width: 100%;
+  min-height: 100vh;
+  width: auto;
+  height: auto;
+  color: #000;
+  background-position: center;
+  background-size: cover;
+}
+
+.center-text {
+  text-align: center;
+  background-color: antiquewhite;
+  opacity: 0.3;
+}
+
+.right-text {
+  text-align: end;
+}
+
+.container-izquierdo {
+  text-align: start;
+}
+
+.container-izquierdo p {
+  font-weight: bold;
+}
