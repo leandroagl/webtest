@@ -12,7 +12,7 @@ body {
 .center-text {
   text-align: center;
   background-color: antiquewhite;
-  opacity: 0.3;
+  opacity: 0.4;
 }
 
 .right-text {
@@ -25,4 +25,16 @@ body {
 
 .container-izquierdo p {
   font-weight: bold;
+}
+
+.center-text1 {
+  text-align: center;
+  opacity: 1;
+}
+.scroller {
+  width: auto;
+  height: auto;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
 }
